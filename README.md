@@ -21,3 +21,23 @@ The purpose of this project is to refresh and strengthen my knowledge of JavaScr
 ✅ Case Sensitivity
 
 ✅ var, let, & const
+
+## D2 practice
+
+### Objectives:
+
+✅ Adding Numbers (+)
+
+✅ Subtracting Numbers (-)
+
+✅ Multiplying Numbers (*)
+
+✅ Dividing Numbers (/)
+
+✅ Incrementing Numbers (++)
+
+✅ Decrementing Numbers (--)
+
+✅ Decimals || Floating Points || Floats (.)
+
+✅ Mod || Modulus || Remainder (%)
